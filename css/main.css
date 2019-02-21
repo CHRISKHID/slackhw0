@@ -1,0 +1,32 @@
+body{
+    margin: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    
+}
+
+#header-img, img{
+    height: 500px;
+    width: 100%;
+}
+
+#header, h1{
+    color: white;
+    text-align: center;
+    margin-top: -300px;
+    
+}
+.botwe{
+    text-align: center;
+}
+
+h3{
+    color: dodgerblue;
+}
+.content{
+    margin: 0 200px;
+    padding: 20px;
+    text-align: justify;
+}
+
+
